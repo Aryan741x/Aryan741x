@@ -22,10 +22,6 @@ Welcome to my GitHub profile! I'm Aryan741x, a passionate developer and lifelong
 - Integrating CI/CD pipelines.
 - Implementing robust security measures.
 
-### 💬 Ask me about
-- Cloud-native technologies.
-- Microservices architecture.
-- DevOps best practices.
   
 [![Aryan741x's GitHub | Dependencies](https://stats.quine.sh/Aryan741x/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aryan741x)
 [![Aryan741x's GitHub | Stats](https://stats.quine.sh/Aryan741x/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aryan741x)
